@@ -105,14 +105,14 @@ The platform is deployed using:
 
 
 **Live Demo**: [StudyNotion Web App]([https://study-notion-two-phi.vercel.app/])  
-**Source Code**: [GitHub Repository](https://github.com/abhi17bgp/StudyNotion)
+**Source Code**: [GitHub Repository](https://github.com/Sunnykumar926/StudyNotion)
 
 
 
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/abhi17bgp/StudyNotion.git
+git clone https://github.com/Sunnykumar926/StudyNotion.git
 ```
 ```bash
 cd StudyNotion
@@ -120,7 +120,7 @@ cd StudyNotion
 
 ## Contributors
 
-- [Abhishek Anand](https://github.com/abhi17bgp)
+- [Sunny Kumar](https://github.com/Sunnykumar926)
 
 ## License
 
