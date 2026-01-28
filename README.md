@@ -1,7 +1,7 @@
 # [StudyNotion](https://study-notion-two-phi.vercel.app/) - An Ed-Tech Platform
 ![StudyNotion Screenshot](https://github.com/abhi17bgp/StudyNotion/blob/main/src/assets/screencapture-studynotion-frontend-abhi17bgps-projects-vercel-app-2025-06-13-19_01_48%20-%20converted_page-0001_page-0001.jpg)
 
-StudyNotion is a full-stack Ed-Tech platform that enables users to create, consume, and rate educational content. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it provides a seamless learning experience for students and a powerful platform for instructors to share their knowledge.
+[StudyNotion](https://study-notion-two-phi.vercel.app/) is a full-stack Ed-Tech platform that enables users to create, consume, and rate educational content. Built with the MERN stack (MongoDB, Express.js, React, Node.js), it provides a seamless learning experience for students and a powerful platform for instructors to share their knowledge.
 
 ## Features
 
